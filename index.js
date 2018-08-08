@@ -15,7 +15,8 @@ function logWhisper(Quietly) {
 }
 
 function sayHiToGrandma(I love you, Grandma.) {
-  var cantHear = "I can't hear you!"
+  var cantHear = "I can't hear you!";
 
-  if (I love you, Grandma. === I love you, Grandma.toLowerCase()) return cantHear;
+  if (I love you, Grandma. === I love you, Grandma.toLowerCase())
+  return cantHear;
 }
